@@ -12,5 +12,13 @@ This project aims to address this challenge and revolutionize the way saline inf
 
 https://drive.google.com/file/d/1yADuMjTlA2GrrQ8vs9uEjEQkuCD-2wQ0/view?usp=sharing
 ![image](https://github.com/Aditya986025/Smart-Healthcare-AI-Infused-Saline-Monitoring-System-With-IoT/assets/117461241/7904b335-5fe3-46fa-b2ce-f9fdb367e262)
+IoT (Internet of Things): To monitor real-time saline levels.
+
+AI/ML Algorithms: For predictive alerts (e.g., estimating time to empty based on flow rate).
+
+Embedded Systems: Microcontrollers like Arduino or Raspberry Pi.
+
+Cloud/Edge Computing: For storing, analyzing, and remotely accessing data.
+
 
 more use for doctor as well as patients also.
