@@ -18,7 +18,7 @@ AI/ML Algorithms: For predictive alerts (e.g., estimating time to empty based on
 
 Embedded Systems: Microcontrollers like Arduino or Raspberry Pi.
 
-Cloud/Edge Computing: For storing, analyzing, and remotely accessing data.
+Cloud/Edge Computing: For storing, analyzing, and remotely Acesscing data.
 
 
 more use for doctor as well as patients also.
